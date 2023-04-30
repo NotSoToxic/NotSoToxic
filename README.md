@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there <img src="https://slackmojis.com/emojis/50554-hello-dog/download"> I am  Sarthak Joshi  <img src="https://slackmojis.com/emojis/5570-confused_dog/download" width="40"/></h1>
+### <h1 align="center">Hi there <img src="https://slackmojis.com/emojis/7377-hello_fox/download"> I am  Sarthak Joshi  <img src="https://slackmojis.com/emojis/5570-confused_dog/download" width="40"/></h1>
 <h1 align="center">Connect With Me 🤝</h1>
 <p align="center">
 <a href="https://github.com/NotSoToxic" target="_blank">
