@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi there 👋 I am  Sarthak Joshi  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
-<h1 align="center">Connect With Me 🤝</h1> 
+<h1 align="center">Connect With Me 🤝</h1> <img src="https://emojis.slackmojis.com/emojis/images/1643516185/22107/happy_dance.gif?1643516185">
 <p align="center">
 <a href="https://github.com/NotSoToxic" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
