@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there 👋 I am  Sarthak Joshi  <img src="https://slackmojis.com/emojis/31478-anime-cheem/download" width="30"/></h1>
+### <h1 align="center">Hi there 👋 I am  Sarthak Joshi  <img src="https://slackmojis.com/emojis/5570-confused_dog/download" width="30"/></h1>
 <h1 align="center">Connect With Me 🤝</h1>
 <p align="center">
 <a href="https://github.com/NotSoToxic" target="_blank">
