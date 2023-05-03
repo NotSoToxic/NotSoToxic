@@ -8,15 +8,16 @@
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NotSoToxic&label=Profile%20views&color=0e75b6&style=flat" alt="NotSoToxic" /> </p>
+
 <div align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NotSoToxic&theme=tokyonight&show_icons=true"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NotSoToxic&theme=tokyonight&show_icons=true" />
 </div>
 <!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NotSoToxic&label=Profile%20views&color=0e75b6&style=flat" alt="NotSoToxic" /> </p>
--->
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/NotSoToxic/count.svg" alt="Visitor Count" /></h2>
-
+-->
 <!--
 **NotSoToxic/NotSoToxic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
