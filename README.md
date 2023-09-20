@@ -1,4 +1,4 @@
-### <h1 align="center">Hi Fellow Contributers <img src="https://slackmojis.com/emojis/22158-oh-hello/download" width="40"/>, I am  Sarthak Joshi  <img src="https://slackmojis.com/emojis/5570-confused_dog/download" width="40"/></h1>
+### <h1 align="center">Hi Fellow Contributers <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"/>, I am  Sarthak Joshi  <img src="https://slackmojis.com/emojis/5570-confused_dog/download" width="40"/></h1>
 <h1 align="center">Connect With Me <img src= "https://slackmojis.com/emojis/57843-socially/download" width = "40" /></h1>
 
 
