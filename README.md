@@ -27,7 +27,7 @@
   </a>
 
   <a href="https://github.com/NotSoToxic/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
+    <img src="https://img.shields.io/github/stars/NotSoToxic/profile-readme-generator?" alt="Badge showing the total of project stars"/>
   </a>
 
   <a href="https://github.com/NotSoToxic/profile-readme-generator/commits/main" target="_blank">
