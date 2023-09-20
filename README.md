@@ -1,10 +1,6 @@
 ### <h1 align="center">Hi Fellow Contributers <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"/>, I am  Sarthak Joshi  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="40"/></h1>
 <h1 align="center">Connect With Me <img src= "https://slackmojis.com/emojis/57843-socially/download" width = "40" /></h1>
 
-<!-- Line -->
-<p align = "center">
-<img src = "https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
-</p>
 
 <!-- Social Links -->
 <p align="center">
@@ -20,6 +16,11 @@
 <div align="center">
 <img src = "https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height = "250"/>
 </div>
+
+<!-- Line -->
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" />
+</p>
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
