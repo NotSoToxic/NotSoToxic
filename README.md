@@ -19,32 +19,6 @@
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NotSoToxic&label=Profile%20views&color=0e75b6&style=flat" alt="NotSoToxic" /> </p>
-
-<p align="center">
-  <a href="https://github.com/NotSoToxic/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
-  </a>
-
-  <a href="https://github.com/NotSoToxic/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/NotSoToxic/profile-readme-generator?" alt="Badge showing the total of project stars"/>
-  </a>
-
-  <a href="https://github.com/NotSoToxic/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
-  </a>
-
-  <a href="https://github.com/NotSoToxic/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
-  </a>
-
-  <a href="https://github.com/NotSoToxic/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
-  </a>
-
-  <a href="https://github.com/NotSoToxic/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
-  </a></p>
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NotSoToxic&theme=tokyonight&show_icons=true"/>
