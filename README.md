@@ -2,9 +2,9 @@
 <h1 align="center">Connect With Me <img src= "https://slackmojis.com/emojis/57843-socially/download" width = "40" /></h1>
 
 
-<p align="center">
-![Background Image](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
-</p>
+<div align="center">
+<img src = "https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+</div>
 
 
 <p align="center">
