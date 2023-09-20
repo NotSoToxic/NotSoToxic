@@ -6,7 +6,7 @@
 </div>
 
 <!-- Social Links -->
-<h1 align="left">Connect With Me:</h1>
+<h2 align="left">Connect With Me:</h2>
 
 <p align="left">
 <a href="https://github.com/NotSoToxic" target="_blank">
@@ -23,7 +23,7 @@
 </p>
 
 <!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </a> 
