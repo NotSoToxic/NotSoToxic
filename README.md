@@ -1,4 +1,4 @@
-### <h1 align="center">Hi Fellow Contributers <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"/>, I am  Sarthak Joshi  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="40"/></h1>
+<h1 align="center">Hi Fellow Contributers <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"/>, I am  Sarthak Joshi  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="40"/></h1>
 
 <!-- Background -->
 <div align="center">
